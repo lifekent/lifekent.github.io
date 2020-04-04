@@ -2,11 +2,11 @@
 With over 7 years of web development, I have a firm grasp on managing all facets of large-scale enterprise applications development, from initial system design to deployment. I always develop an understanding of architecture, optimization, and security to improve scalability, performance, and profits
 
 # Links
-**LinkedIn**: https://www.linkedin.com/in/lifekent/
+**[LinkedIn](https://www.linkedin.com/in/lifekent)**
 
-**Scrum Alliance**: https://www.scrumalliance.org/community/profile/rnehrulenk
+**[Scrum Alliance](https://www.scrumalliance.org/community/profile/rnehrulenk)**
 
-**Upwork**: https://www.upwork.com/o/profiles/users/~01aefac6a961232027/
+**[Upwork](https://www.upwork.com/o/profiles/users/~01aefac6a961232027)**
 
 # Skills
 
