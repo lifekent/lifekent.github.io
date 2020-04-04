@@ -61,23 +61,23 @@ Architecting APIs and other solutions using modern programming languages
 - Elastic Search
 - Sphinxsearch
 
-### OPERATIONS
-From secure setup to autoscaling
+### Operations
+From secure cloud setup to autoscaling
 - AWS EC2, ECS, SQS, ElastiCache, S3, etc
 - Digital Ocean
 - Heroku
 - Elastic Cloud
 - Compose.io
 
-### TESTING
+### Testing
 - TDD (PHPUnit, Codeception)
 - API testing
 
-### CONTINUOUS INTEGRATION
+### Continuous integration
 - Jenkins
 - TeamCity
 - Codeship
 - TravisCI
 
-# PROFESSIONAL EXPERIENCE
+# Professional experience
 #### [LinkedIn Profile](https://www.linkedin.com/in/lifekent/ "LinkedIn Profile")
