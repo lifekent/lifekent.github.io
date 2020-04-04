@@ -6,6 +6,8 @@ With over 7 years of web development, I have a firm grasp on managing all facets
 
 **[Scrum Alliance](https://www.scrumalliance.org/community/profile/rnehrulenk)**
 
+**[Github](https://github.com/lifekent)**
+
 **[Upwork](https://www.upwork.com/o/profiles/users/~01aefac6a961232027)**
 
 # Skills
