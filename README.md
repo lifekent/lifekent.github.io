@@ -21,8 +21,7 @@ Hands-on experience in leading development teams in stressful, deadline-oriented
 ### Backend development
 Architecting APIs and other solutions using modern programming languages
 - PHP(Laravel/Lumen, Symfony, Yii2, CodeIgniter)
-- Java
-- Go
+- Basic understanding of Go, Java
 
 ### Frontend development
 - HTML5 / CSS3
