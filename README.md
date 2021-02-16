@@ -73,10 +73,8 @@ From secure cloud setup to autoscaling
 - API testing
 
 ### Continuous integration
-- Jenkins
 - TeamCity
-- Codeship
-- TravisCI
+- Jenkins
 
 # Professional experience
 #### [LinkedIn Profile](https://www.linkedin.com/in/lifekent/ "LinkedIn Profile")
