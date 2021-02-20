@@ -1,5 +1,5 @@
 # General
-With over 7 years of web development, I have a firm grasp on managing all facets of large-scale enterprise applications development, from initial system design to deployment. I always develop an understanding of architecture, optimization, and security to improve scalability, performance, and profits
+With over 8 years of web development, I have a firm grasp on managing all facets of large-scale enterprise applications development, from initial system design to deployment. I always develop an understanding of architecture, optimization, and security to improve scalability, performance, and profits
 
 # Links
 **[LinkedIn](https://www.linkedin.com/in/lifekent)**
@@ -19,8 +19,8 @@ Hands-on experience in leading development teams in stressful, deadline-oriented
 - [Certified Scrum Master](https://www.scrumalliance.org/community/profile/rnehrulenk "Scrum Master")
 
 ### Backend development
-Architecting APIs and other solutions using modern programming languages
-- PHP(Laravel/Lumen, Symfony, Yii2, CodeIgniter)
+Architecting APIs and other solutions
+- PHP (Laravel/Lumen, Symfony, Yii2, CodeIgniter)
 - Basic understanding of Go, Java
 
 ### Frontend development
@@ -29,16 +29,16 @@ Architecting APIs and other solutions using modern programming languages
 - JavaScript (ReactJS + Redux, AngularJS, jQuery)
 
 ### Operations
-- AWS, Digital Ocean, Compose services
-- Docker experience including compose
+- AWS, Digital Ocean, compose.io
+- Docker containers
 - Scripting and automation experience
 
 # More technical details
 ### Languages and frameworks
 ##### PHP
-- **Laravel** - in-depth knowledge of versions 4/5, experience with a new version 6, for building both REST API only and MVC solutions 
-- **Symfony 4** - experience in building a highly scalable REST API architecture for SaaS product
-- **Lumen** - used for building thin and fast analytics microservices as backends and endpoints in pair with Elastic Seach, MongoDB
+- **Laravel** - working with framework since version 4, for building both REST API only and MVC solutions, mobile backends with API/GraphQL
+- **Symfony 4/5** - experience in building a highly scalable REST API architecture for SaaS product
+- **Lumen** - used for building thin and fast analytical backend microservices in pair with SQL, Elastic Seach, MongoDB
 - **Yii2, Codeigniter** - as MVC frameworks for various commercial products
 
 ##### JavaScript
@@ -48,7 +48,7 @@ Architecting APIs and other solutions using modern programming languages
 - basics of Nodejs
 
 ### RDBMS
-- MySQL (f.e. handled millions of records of financial funds data from different sources)
+- MySQL (f.e. handled millions of records of financial funds data from different sources to aggregate data and analyze trends)
 - PostgreSQL
 
 ### NoSQL
@@ -57,12 +57,12 @@ Architecting APIs and other solutions using modern programming languages
 - InfluxDB
 
 ### Search and analytics
-- Elastic Search
+- Elastic Search (search, aggregations)
 - Sphinxsearch
 
 ### Operations
 From secure cloud setup to autoscaling
-- AWS EC2, ECS, SQS, ElastiCache, S3, etc
+- AWS (ECS, EC2, RDS, ELB, S3, CloudFront, IAM, KMS) etc
 - Digital Ocean
 - Heroku
 - Elastic Cloud
