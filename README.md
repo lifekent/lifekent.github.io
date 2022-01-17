@@ -14,12 +14,12 @@ With over 8 years of web development, I have a firm grasp on managing all facets
 
 ### Management / Team working
 Hands-on experience in leading development teams in stressful, deadline-oriented environments
-- Leading a development team for the last 2+ years
+- Leading a development team for the last 3+ years
 - SCRUM & Agile
 - [Certified Scrum Master](https://www.scrumalliance.org/community/profile/rnehrulenk "Scrum Master")
 
 ### Backend development
-Architecting APIs and other solutions
+API architecture, microservices etc
 - PHP (Laravel/Lumen, Symfony, Yii2, CodeIgniter)
 - Basic understanding of Go, Java
 
@@ -30,7 +30,7 @@ Architecting APIs and other solutions
 
 ### Operations
 - AWS, Digital Ocean, compose.io
-- Docker containers
+- Docker
 - Scripting and automation experience
 
 # More technical details
